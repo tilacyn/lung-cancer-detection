@@ -1,1 +1,0 @@
-# lung-cancer-detection
